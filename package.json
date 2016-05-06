@@ -1,0 +1,27 @@
+{
+  "name": "meandemo",
+  "version": "1.0.0",
+  "description": "a small demo app with express, node and angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimeshkverma/MEAN_Demo.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "angular"
+  ],
+  "author": "Vivek Nayyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimeshkverma/MEAN_Demo/issues"
+  },
+  "homepage": "https://github.com/nimeshkverma/MEAN_Demo#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
